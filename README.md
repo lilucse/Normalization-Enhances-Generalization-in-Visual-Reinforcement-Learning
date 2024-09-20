@@ -1,4 +1,4 @@
-# Normalization Enhances Generalization in Visual Reinforcement Learning
+# [AAMAS 2024]Normalization Enhances Generalization in Visual Reinforcement Learning
 
 Original PyTorch implementation of experiments in 'Normalization Enhances Generalization in Visual Reinforcement Learning'.
 
