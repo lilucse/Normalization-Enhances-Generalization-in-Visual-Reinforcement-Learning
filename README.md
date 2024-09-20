@@ -4,7 +4,7 @@ Original PyTorch implementation of experiments in 'Normalization Enhances Genera
 
 For DeepMind Control-generalization-benchmark, refer to: cnsn_dmcgb
 
-For CARLA, refer to:: cnsn_carla
+For CARLA, refer to: cnsn_carla
 
 ### Citation
 
